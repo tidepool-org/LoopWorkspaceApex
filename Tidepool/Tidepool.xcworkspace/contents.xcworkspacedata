@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "container:../Scripts"
+      name = "Scripts">
+      <FileRef
+         location = "group:workspace-prepare.sh">
+      </FileRef>
+   </Group>
+   <FileRef
+      location = "group:Loop/LoopOverride.xcconfig">
+   </FileRef>
+   <FileRef
+      location = "group:../Common/Loop/VersionOverride.xcconfig">
+   </FileRef>
+   <FileRef
+      location = "group:../InfoCustomizations.txt">
+   </FileRef>
+   <FileRef
+      location = "group:Loop/Loop/DerivedAssetsOverride.xcassets">
+   </FileRef>
+   <FileRef
+      location = "group:Loop/WatchApp/DerivedAssetsOverride.xcassets">
+   </FileRef>
+   <FileRef
+      location = "group:Loop/Loop Widget Extension/DerivedAssetsOverride.xcassets">
+   </FileRef>
+   <FileRef
+      location = "group:Loop/Loop/Loop.entitlements">
+   </FileRef>
+   <FileRef
+      location = "group:../Loop/Loop.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:../Common/LoopKit/LoopKit.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:insulin-delivery-loop-plugin/InsulinDeliveryLoopKit.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:TidepoolSecurity/TidepoolSecurity.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:../Common/TidepoolService/TidepoolService.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:TidepoolOnboarding/TidepoolOnboarding.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:TidepoolSupport/TidepoolSupport.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:../Common/TrueTime/TrueTime.xcodeproj">
+   </FileRef>
+</Workspace>
