@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "glucose-falling-fast.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

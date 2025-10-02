@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   LastUpgradeVersion = "2600"
+   version = "1.7">
+   <BuildAction
+      parallelizeBuildables = "NO"
+      buildImplicitDependencies = "NO">
+      <PreActions>
+         <ExecutionAction
+            ActionType = "Xcode.IDEStandardExecutionActionsCore.ExecutionActionType.ShellScriptAction">
+            <ActionContent
+               title = "Run Script"
+               scriptText = "# Type a script or drag a script file from your workspace to insert its path.&#10;&#10;${WORKSPACE_PATH}/../../Scripts/workspace-prepare.sh&#10;">
+            </ActionContent>
+         </ExecutionAction>
+         <ExecutionAction
+            ActionType = "Xcode.IDEStandardExecutionActionsCore.ExecutionActionType.ShellScriptAction">
+            <ActionContent
+               title = "Run Script"
+               scriptText = "# Type a script or drag a script file from your workspace to insert its path.&#10;">
+            </ActionContent>
+         </ExecutionAction>
+      </PreActions>
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "43D8FDCA1C728FDF0073BE78"
+               BuildableName = "LoopKit.framework"
+               BlueprintName = "LoopKit"
+               ReferencedContainer = "container:../Common/LoopKit/LoopKit.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "A9E6758022713F4700E25293"
+               BuildableName = "LoopKit.framework"
+               BlueprintName = "LoopKit-watchOS"
+               ReferencedContainer = "container:../Common/LoopKit/LoopKit.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "43BA7153201E484D0058961E"
+               BuildableName = "LoopKitUI.framework"
+               BlueprintName = "LoopKitUI"
+               ReferencedContainer = "container:../Common/LoopKit/LoopKit.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "89D2048E21CC7C12001238CC"
+               BuildableName = "MockKitUI.framework"
+               BlueprintName = "MockKitUI"
+               ReferencedContainer = "container:../Common/LoopKit/LoopKit.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "892A5D33222F03CB008961AB"
+               BuildableName = "LoopTestingKit.framework"
+               BlueprintName = "LoopTestingKit"
+               ReferencedContainer = "container:../Common/LoopKit/LoopKit.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "89D2047121CC7BD7001238CC"
+               BuildableName = "MockKit.framework"
+               BlueprintName = "MockKit"
+               ReferencedContainer = "container:../Common/LoopKit/LoopKit.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "A94AE4E3235A89B5005CA320"
+               BuildableName = "TidepoolServiceKitPlugin.loopplugin"
+               BlueprintName = "TidepoolServiceKitPlugin"
+               ReferencedContainer = "container:../Common/TidepoolService/TidepoolService.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "28482DC11D314E7B003491D9"
+               BuildableName = "TrueTime.framework"
+               BlueprintName = "TrueTime-iOS"
+               ReferencedContainer = "container:../Common/TrueTime/TrueTime.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "B4FF26A42AA2496D00BCA082"
+               BuildableName = "TidepoolSecurityPlugin.loopplugin"
+               BlueprintName = "TidepoolSecurityPlugin"
+               ReferencedContainer = "container:TidepoolSecurity/TidepoolSecurity.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "B41F872C26DFB430004AB7C3"
+               BuildableName = "MockInsulinDeliveryPumpPlugin.loopplugin"
+               BlueprintName = "MockInsulinDeliveryPumpPlugin"
+               ReferencedContainer = "container:insulin-delivery-loop-plugin/InsulinDeliveryLoopKit.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "B4D8559E241BC53400ED61FF"
+               BuildableName = "InsulinDeliveryLoopKitPlugin.loopplugin"
+               BlueprintName = "InsulinDeliveryLoopKitPlugin"
+               ReferencedContainer = "container:insulin-delivery-loop-plugin/InsulinDeliveryLoopKit.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "1DFFB96E271627430075AEAA"
+               BuildableName = "TidepoolSupportPlugin.loopplugin"
+               BlueprintName = "TidepoolSupportPlugin"
+               ReferencedContainer = "container:TidepoolSupport/TidepoolSupport.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "A98AD2B825830807001AAD6F"
+               BuildableName = "TidepoolOnboardingPlugin.loopplugin"
+               BlueprintName = "TidepoolOnboardingPlugin"
+               ReferencedContainer = "container:TidepoolOnboarding/TidepoolOnboarding.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "43776F8B1B8022E90074EA36"
+               BuildableName = "Loop.app"
+               BlueprintName = "Loop"
+               ReferencedContainer = "container:../Loop/Loop.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "NO"
+            buildForProfiling = "NO"
+            buildForArchiving = "NO"
+            buildForAnalyzing = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "1DFFB93927150D2D0075AEAA"
+               BuildableName = "TidepoolSupportTests.xctest"
+               BlueprintName = "TidepoolSupportTests"
+               ReferencedContainer = "container:TidepoolSupport/TidepoolSupport.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "NO"
+            buildForProfiling = "NO"
+            buildForArchiving = "NO"
+            buildForAnalyzing = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "B4D8553E241BBAFA00ED61FF"
+               BuildableName = "InsulinDeliveryLoopKitTests.xctest"
+               BlueprintName = "InsulinDeliveryLoopKitTests"
+               ReferencedContainer = "container:insulin-delivery-loop-plugin/InsulinDeliveryLoopKit.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "NO"
+            buildForProfiling = "NO"
+            buildForArchiving = "NO"
+            buildForAnalyzing = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "B4D8557F241BC25000ED61FF"
+               BuildableName = "InsulinDeliveryLoopKitUITests.xctest"
+               BlueprintName = "InsulinDeliveryLoopKitUITests"
+               ReferencedContainer = "container:insulin-delivery-loop-plugin/InsulinDeliveryLoopKit.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <TestAction
+      buildConfiguration = "Debug"
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      codeCoverageEnabled = "YES">
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "43776F8B1B8022E90074EA36"
+            BuildableName = "Loop.app"
+            BlueprintName = "Loop"
+            ReferencedContainer = "container:../Loop/Loop.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
+      <TestPlans>
+         <TestPlanReference
+            reference = "container:TidepoolSupport/TidepoolSupport/TidepoolLoopUnitTestPlan.xctestplan"
+            default = "YES">
+         </TestPlanReference>
+         <TestPlanReference
+            reference = "container:TidepoolSupport/TidepoolLoopUITests/TidepoolLoopUITestPlan.xctestplan">
+         </TestPlanReference>
+      </TestPlans>
+      <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "43D8FDD41C728FDF0073BE78"
+               BuildableName = "LoopKitTests.xctest"
+               BlueprintName = "LoopKitTests"
+               ReferencedContainer = "container:../Common/LoopKit/LoopKit.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "A9DAAD0622E7987800E76C9F"
+               BuildableName = "TidepoolServiceKitTests.xctest"
+               BlueprintName = "TidepoolServiceKitTests"
+               ReferencedContainer = "container:../Common/TidepoolService/TidepoolService.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "A9DAAD2222E7988900E76C9F"
+               BuildableName = "TidepoolServiceKitUITests.xctest"
+               BlueprintName = "TidepoolServiceKitUITests"
+               ReferencedContainer = "container:../Common/TidepoolService/TidepoolService.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "1DFFB93927150D2D0075AEAA"
+               BuildableName = "TidepoolSupportTests.xctest"
+               BlueprintName = "TidepoolSupportTests"
+               ReferencedContainer = "container:TidepoolSupport/TidepoolSupport.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "A98AD2F025830851001AAD6F"
+               BuildableName = "TidepoolOnboardingTests.xctest"
+               BlueprintName = "TidepoolOnboardingTests"
+               ReferencedContainer = "container:TidepoolOnboarding/TidepoolOnboarding.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "43E2D90A1D20C581004DA55F"
+               BuildableName = "LoopTests.xctest"
+               BlueprintName = "LoopTests"
+               ReferencedContainer = "container:../Loop/Loop.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "1DEE226824A676A300693C32"
+               BuildableName = "LoopKitHostedTests.xctest"
+               BlueprintName = "LoopKitHostedTests"
+               ReferencedContainer = "container:../Common/LoopKit/LoopKit.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "B4CEE2DF257129780093111B"
+               BuildableName = "MockKitTests.xctest"
+               BlueprintName = "MockKitTests"
+               ReferencedContainer = "container:../Common/LoopKit/LoopKit.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+      </Testables>
+   </TestAction>
+   <LaunchAction
+      buildConfiguration = "Debug"
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      launchStyle = "0"
+      useCustomWorkingDirectory = "NO"
+      ignoresPersistentStateOnLaunch = "NO"
+      debugDocumentVersioning = "YES"
+      debugServiceExtension = "internal"
+      allowLocationSimulation = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "43776F8B1B8022E90074EA36"
+            BuildableName = "Loop.app"
+            BlueprintName = "Loop"
+            ReferencedContainer = "container:../Loop/Loop.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </LaunchAction>
+   <ProfileAction
+      buildConfiguration = "Debug"
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      savedToolIdentifier = ""
+      useCustomWorkingDirectory = "NO"
+      debugDocumentVersioning = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "43776F8B1B8022E90074EA36"
+            BuildableName = "Loop.app"
+            BlueprintName = "Loop"
+            ReferencedContainer = "container:../Loop/Loop.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </ProfileAction>
+   <AnalyzeAction
+      buildConfiguration = "Debug">
+   </AnalyzeAction>
+   <ArchiveAction
+      buildConfiguration = "Testflight"
+      revealArchiveInOrganizer = "YES">
+   </ArchiveAction>
+</Scheme>

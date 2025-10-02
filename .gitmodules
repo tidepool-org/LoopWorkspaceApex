@@ -1,0 +1,25 @@
+[submodule "Loop"]
+	path = Loop
+	url = https://github.com/tidepool-org/Loop.git
+[submodule "Common/LoopKit"]
+	path = Common/LoopKit
+	url = https://github.com/tidepool-org/LoopKit.git
+[submodule "Common/TidepoolService"]
+	path = Common/TidepoolService
+	url = https://github.com/tidepool-org/TidepoolService.git
+[submodule "Common/TrueTime"]
+	path = Common/TrueTime
+	url = https://github.com/tidepool-org/TrueTime.swift.git
+[submodule "Tidepool/TidepoolOnboarding"]
+	path = Tidepool/TidepoolOnboarding
+	url = https://github.com/tidepool-org/TidepoolOnboarding.git
+	branch = dev
+[submodule "Tidepool/TidepoolSupport"]
+	path = Tidepool/TidepoolSupport
+	url = https://github.com/tidepool-org/TidepoolSupport.git
+[submodule "Tidepool/TidepoolSecurity"]
+	path = Tidepool/TidepoolSecurity
+	url = https://github.com/tidepool-org/TidepoolSecurity.git
+[submodule "Tidepool/insulin-delivery-loop-plugin"]
+	path = Tidepool/insulin-delivery-loop-plugin
+	url = https://github.com/tidepool-org/insulin-delivery-loop-plugin.git

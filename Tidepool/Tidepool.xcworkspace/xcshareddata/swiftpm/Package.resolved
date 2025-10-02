@@ -1,0 +1,176 @@
+{
+  "originHash" : "83aea6fbd039394d5b04e0d6d5d4a55df9fd1a15d35499b655ddd5d95b7958bf",
+  "pins" : [
+    {
+      "identity" : "bigint",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/attaswift/BigInt.git",
+      "state" : {
+        "revision" : "e07e00fa1fd435143a2dcf8b7eec9a7710b2fdfe",
+        "version" : "5.7.0"
+      }
+    },
+    {
+      "identity" : "bluetoothcommonkit",
+      "kind" : "remoteSourceControl",
+      "location" : "git@github.com:tidepool-org/BluetoothCommonKit.git",
+      "state" : {
+        "branch" : "dev",
+        "revision" : "7ac6e1f5ffbf539e208858f18229eeaa2f6e479c"
+      }
+    },
+    {
+      "identity" : "cryptoswift",
+      "kind" : "remoteSourceControl",
+      "location" : "git@github.com:krzyzanowskim/CryptoSwift.git",
+      "state" : {
+        "revision" : "e45a26384239e028ec87fbcc788f513b67e10d8f",
+        "version" : "1.9.0"
+      }
+    },
+    {
+      "identity" : "cucumberswift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Tyler-Keith-Thompson/CucumberSwift",
+      "state" : {
+        "revision" : "36af016101f2e069ac1cc7d1cea4ad65d15121e6",
+        "version" : "5.0.2"
+      }
+    },
+    {
+      "identity" : "cucumberswiftexpressions",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Tyler-Keith-Thompson/CucumberSwiftExpressions.git",
+      "state" : {
+        "revision" : "5200dc2c5d7cd31f07a13f030ab0027224d2dbea",
+        "version" : "0.0.8"
+      }
+    },
+    {
+      "identity" : "float16",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SusanDoggie/Float16.git",
+      "state" : {
+        "revision" : "936ae66adccf1c91bcaeeb9c0cddde78a13695c3",
+        "version" : "1.1.1"
+      }
+    },
+    {
+      "identity" : "insulindeliveryservicekit",
+      "kind" : "remoteSourceControl",
+      "location" : "git@github.com:tidepool-org/InsulinDeliveryServiceKit.git",
+      "state" : {
+        "branch" : "dev",
+        "revision" : "6c4c667917409709d480ced93783d8446fa677f1"
+      }
+    },
+    {
+      "identity" : "loopalgorithm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/tidepool-org/LoopAlgorithm",
+      "state" : {
+        "branch" : "main",
+        "revision" : "29c7b52756e8b7c39a69475188f34f557094567f"
+      }
+    },
+    {
+      "identity" : "loopuitestingkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/tidepool-org/LoopUITestingKit.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "553a0c927f0b3a145ee5033e373c3db08ccf4628"
+      }
+    },
+    {
+      "identity" : "mkringprogressview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/maxkonovalov/MKRingProgressView.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "660888aab1d2ab0ed7eb9eb53caec12af4955fa7"
+      }
+    },
+    {
+      "identity" : "potentcodables",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/outfoxx/PotentCodables.git",
+      "state" : {
+        "revision" : "acfa8ee4108255c3f60ecfe11df75f70784a17da",
+        "version" : "3.5.2"
+      }
+    },
+    {
+      "identity" : "regex",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/sharplet/Regex.git",
+      "state" : {
+        "revision" : "76c2b73d4281d77fc3118391877efd1bf972f515",
+        "version" : "2.1.1"
+      }
+    },
+    {
+      "identity" : "shield",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/outfoxx/shield",
+      "state" : {
+        "revision" : "7d19bf67a55985217a5db9393d99631b5c5ff362",
+        "version" : "3.5.0"
+      }
+    },
+    {
+      "identity" : "swift-algorithms",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-algorithms",
+      "state" : {
+        "revision" : "87e50f483c54e6efd60e885f7f5aa946cee68023",
+        "version" : "1.2.1"
+      }
+    },
+    {
+      "identity" : "swift-collections",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-collections.git",
+      "state" : {
+        "revision" : "8c0c0a8b49e080e54e5e328cc552821ff07cd341",
+        "version" : "1.2.1"
+      }
+    },
+    {
+      "identity" : "swift-numerics",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-numerics.git",
+      "state" : {
+        "revision" : "e0ec0f5f3af6f3e4d5e7a19d2af26b481acb6ba8",
+        "version" : "1.0.3"
+      }
+    },
+    {
+      "identity" : "swiftcharts",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ivanschuetz/SwiftCharts",
+      "state" : {
+        "branch" : "master",
+        "revision" : "c354c1945bb35a1f01b665b22474f6db28cba4a2"
+      }
+    },
+    {
+      "identity" : "tidepoolkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/tidepool-org/TidepoolKit",
+      "state" : {
+        "branch" : "dev",
+        "revision" : "4f4747ff647d836c5a27cc1b9c275e5717901e83"
+      }
+    },
+    {
+      "identity" : "zipfoundation",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/LoopKit/ZIPFoundation.git",
+      "state" : {
+        "revision" : "c67b7509ec82ee2b4b0ab3f97742b94ed9692494"
+      }
+    }
+  ],
+  "version" : 3
+}
