@@ -14,13 +14,13 @@
       location = "group:../InfoCustomizations.txt">
    </FileRef>
    <FileRef
-      location = "group:Loop/Loop/DerivedAssetsOverride.xcassets">
+      location = "container:../OverrideAssetsWidget.xcassets">
    </FileRef>
    <FileRef
-      location = "group:Loop/WatchApp/DerivedAssetsOverride.xcassets">
+      location = "container:../OverrideAssetsLoop.xcassets">
    </FileRef>
    <FileRef
-      location = "group:Loop/Loop Widget Extension/DerivedAssetsOverride.xcassets">
+      location = "container:../OverrideAssetsWatchApp.xcassets">
    </FileRef>
    <FileRef
       location = "group:Loop/Loop/Loop.entitlements">
