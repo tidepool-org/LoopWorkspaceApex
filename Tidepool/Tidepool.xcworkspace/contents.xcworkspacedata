@@ -1,18 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Workspace
    version = "1.0">
-   <Group
-      location = "container:../Scripts"
-      name = "Scripts">
-      <FileRef
-         location = "group:workspace-prepare.sh">
-      </FileRef>
-   </Group>
    <FileRef
       location = "group:Loop/LoopOverride.xcconfig">
    </FileRef>
    <FileRef
       location = "group:../Common/Loop/VersionOverride.xcconfig">
+   </FileRef>
+   <FileRef
+      location = "container:../LoopConfigOverride.xcconfig">
    </FileRef>
    <FileRef
       location = "group:../InfoCustomizations.txt">
