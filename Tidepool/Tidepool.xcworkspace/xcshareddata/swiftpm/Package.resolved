@@ -16,7 +16,7 @@
       "location" : "git@github.com:tidepool-org/BluetoothCommonKit.git",
       "state" : {
         "branch" : "dev",
-        "revision" : "7ac6e1f5ffbf539e208858f18229eeaa2f6e479c"
+        "revision" : "d76841763ad297f8763e1244831365a97f45ccaf"
       }
     },
     {
@@ -61,7 +61,7 @@
       "location" : "git@github.com:tidepool-org/InsulinDeliveryServiceKit.git",
       "state" : {
         "branch" : "dev",
-        "revision" : "6c4c667917409709d480ced93783d8446fa677f1"
+        "revision" : "92b43261d012ff11ef4a49bd5a89ca4991e0e0c5"
       }
     },
     {
@@ -70,7 +70,7 @@
       "location" : "https://github.com/tidepool-org/LoopAlgorithm",
       "state" : {
         "branch" : "main",
-        "revision" : "29c7b52756e8b7c39a69475188f34f557094567f"
+        "revision" : "13cb4b45258cee5be1eb2ad941b374dde53de551"
       }
     },
     {
