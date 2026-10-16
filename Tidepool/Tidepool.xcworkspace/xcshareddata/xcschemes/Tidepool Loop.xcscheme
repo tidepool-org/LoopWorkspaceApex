@@ -114,6 +114,20 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
+               BlueprintIdentifier = "C10424532E6B58F80023FACB"
+               BuildableName = "LoopKitUI.framework"
+               BlueprintName = "LoopKitUI-watchOS"
+               ReferencedContainer = "container:../Common/LoopKit/LoopKit.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
                BlueprintIdentifier = "A94AE4E3235A89B5005CA320"
                BuildableName = "TidepoolServiceKitPlugin.loopplugin"
                BlueprintName = "TidepoolServiceKitPlugin"
