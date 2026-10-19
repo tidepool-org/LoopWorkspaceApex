@@ -2,12 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:Loop/LoopOverride.xcconfig">
-   </FileRef>
-   <FileRef
-      location = "group:../Common/Loop/VersionOverride.xcconfig">
-   </FileRef>
-   <FileRef
       location = "container:../LoopConfigOverride.xcconfig">
    </FileRef>
    <FileRef

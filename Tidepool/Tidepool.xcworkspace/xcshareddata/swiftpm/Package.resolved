@@ -1,5 +1,5 @@
 {
-  "originHash" : "83aea6fbd039394d5b04e0d6d5d4a55df9fd1a15d35499b655ddd5d95b7958bf",
+  "originHash" : "00e320265627f5e011682759254fc98240dbce94e7ce8da8f28a5cdfe17fa394",
   "pins" : [
     {
       "identity" : "bigint",
@@ -13,16 +13,16 @@
     {
       "identity" : "bluetoothcommonkit",
       "kind" : "remoteSourceControl",
-      "location" : "git@github.com:tidepool-org/BluetoothCommonKit.git",
+      "location" : "https://github.com/tidepool-org/BluetoothCommonKit.git",
       "state" : {
         "branch" : "dev",
-        "revision" : "d76841763ad297f8763e1244831365a97f45ccaf"
+        "revision" : "221cb754af7cce8d06ab439f223e2ee3ff8d1ef1"
       }
     },
     {
       "identity" : "cryptoswift",
       "kind" : "remoteSourceControl",
-      "location" : "git@github.com:krzyzanowskim/CryptoSwift.git",
+      "location" : "https://github.com/krzyzanowskim/CryptoSwift.git",
       "state" : {
         "revision" : "e45a26384239e028ec87fbcc788f513b67e10d8f",
         "version" : "1.9.0"
@@ -58,10 +58,10 @@
     {
       "identity" : "insulindeliveryservicekit",
       "kind" : "remoteSourceControl",
-      "location" : "git@github.com:tidepool-org/InsulinDeliveryServiceKit.git",
+      "location" : "https://github.com/tidepool-org/InsulinDeliveryServiceKit.git",
       "state" : {
         "branch" : "dev",
-        "revision" : "92b43261d012ff11ef4a49bd5a89ca4991e0e0c5"
+        "revision" : "a46681e485932d7805eea9b6673105b273ac68db"
       }
     },
     {
